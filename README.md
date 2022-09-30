@@ -19,7 +19,6 @@ A simple and fully customizable React Native component to create Animated Steppe
 | count | number | number of status in data are true|
 | startTime | number| startTime of animation|
 | lastElement | number| startTime of animation|
-
 | widthofline | number| width if line in RNsteppers|
 | animatedValue | number| animated value from where to start |
 | heightOfline | number| height of line in RNsteppers|
@@ -27,6 +26,6 @@ A simple and fully customizable React Native component to create Animated Steppe
 | AnimatedColor | string| AnimatedColor take string type of color ('green')|
 | StepperBackgroundColor | string| AnimatedColor take string type of color ('lightgrey') |
 
-
+## Screenshots
 <img src ="https://user-images.githubusercontent.com/103027059/193240401-51028cc0-ee9d-4145-9c5d-7617dfb45abe.png" width="200" height ="400"/>
 

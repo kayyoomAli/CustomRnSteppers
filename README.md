@@ -36,4 +36,5 @@ A simple and fully customizable React Native component to create Animated Steppe
 ## Screenshots
 
 ![App Screen](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Simulator Screen Shot - iPhone 13 - 2022-09-30 at 11 17 20](https://user-images.githubusercontent.com/103027059/193240401-51028cc0-ee9d-4145-9c5d-7617dfb45abe.png)
 

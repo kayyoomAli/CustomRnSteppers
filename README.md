@@ -34,6 +34,6 @@ A simple and fully customizable React Native component to create Animated Steppe
 
 
 
-<img src="https://github.com/favicon.ico" width="48">
+```html <img src="https://github.com/favicon.ico" width="48">```
 ![Simulator Screen Shot - iPhone 13 - 2022-09-30 at 11 17 20](https://user-images.githubusercontent.com/103027059/193240401-51028cc0-ee9d-4145-9c5d-7617dfb45abe.png)
 

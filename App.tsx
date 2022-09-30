@@ -5,7 +5,7 @@ import PhoneRingAnimated from './test';
 
 export default function App() {
   return (
-    <SafeAreaView style={{marginVertical: 80, marginHorizontal: 20}}>
+    <SafeAreaView style={{marginVertical: 80, marginHorizontal: 30}}>
       <StepProgressBar/>
       {/* <PhoneRingAnimated /> */}
     </SafeAreaView>

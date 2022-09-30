@@ -33,4 +33,4 @@ A simple and fully customizable React Native component to create Animated Steppe
 
 data for RNsteppers must have status and key
 * key must be unique
-* status must be boolean in sequence { means that true ,true... then false ,"if it's any status is false then all next status must be false }
+* status must be boolean in sequence { means if status start from true ,true... then false ,"if it's any status is false then all next status must be false }

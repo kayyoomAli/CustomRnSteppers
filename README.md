@@ -28,5 +28,5 @@ A simple and fully customizable React Native component to create Animated Steppe
 | StepperBackgroundColor | string| AnimatedColor take string type of color ('lightgrey') |
 
 
-<img src ="https://user-images.githubusercontent.com/103027059/193240401-51028cc0-ee9d-4145-9c5d-7617dfb45abe.png" width="100" height ="100"/>
+<img src ="https://user-images.githubusercontent.com/103027059/193240401-51028cc0-ee9d-4145-9c5d-7617dfb45abe.png" width="200" height ="400"/>
 

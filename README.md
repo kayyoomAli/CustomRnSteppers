@@ -26,5 +26,7 @@ A simple and fully customizable React Native component to create Animated Steppe
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/103027059/193255074-d9eda348-09c4-4b71-bb11-d806dab42e63.png" height="400" width="200"/>
+<img src="https://user-images.githubusercontent.com/103027059/193255293-a3436aec-46c6-49e8-85c2-428f50f8c060.png" height="400" width="200"/>
+
 
 

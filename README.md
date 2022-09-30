@@ -48,30 +48,30 @@ const StepProgressBar = () => {
     }
   });
 
-  const _renderitem = ({item, index}: any) => {
-    return (
-      <AnimatedSteppers
-        item={item}
-        index={index}
-        count={count}
-        status={item?.status}
-        startTime={2000 * index}
-        lastElement={lastElement}
-        AnimatedColor={'dodgerblue'}
-        animatedValue={-280 * item?.key}
-      />
-    );
-  };
+//   const _renderitem = ({item, index}: any) => {
+//     return (
+//       <AnimatedSteppers
+//         item={item}
+//         index={index}
+//         count={count}
+//         status={item?.status}
+//         startTime={2000 * index}
+//         lastElement={lastElement}
+//         AnimatedColor={'dodgerblue'}
+//         animatedValue={-280 * item?.key}
+//       />
+//     );
+//   };
 
-  return (
-    <SafeAreaView>
-      <FlatList data={data} renderItem={_renderitem} scrollEnabled={false} />
-    </SafeAreaView>
+//   return (
+//     <SafeAreaView>
+//       <FlatList data={data} renderItem={_renderitem} scrollEnabled={false} />
+//     </SafeAreaView>
     
-  );
-};
+//   );
+// };
 
-export default React.memo(StepProgressBar);
+// export default React.memo(StepProgressBar);
 
 important Note: data must have two mandatory value {status and key(key must be unique)}
 ```

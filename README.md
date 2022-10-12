@@ -4,8 +4,7 @@
 A simple and fully customizable React Native component to create Animated Steppers.
 
 
-## Table of content
-* Example.  
+## Table of content  
 * Installation.  
 * Usage.  
 * Props

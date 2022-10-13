@@ -33,7 +33,6 @@ A simple and fully customizable React Native component to create Animated Steppe
 | countOfStatus | number | (Required) number of status in data are true|
 | widthofline | number| width if line in RNsteppers|
 | animatedValue | number| animated value from where to start |
-| heightOfline | number| height of line in RNsteppers|
 | AnimatedColor | string| AnimatedColor take string type of color ('green')|
 | backgroundColor | string| backgroundColor take string type of color ('lightgrey') |
 | SizeOfcircle | number |  sizeOfCirle take |

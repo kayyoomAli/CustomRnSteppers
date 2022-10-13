@@ -28,6 +28,8 @@ A simple and fully customizable React Native component to create Animated Steppe
 | heightOfCircle | number| height of Circle in RNsteppers|
 | AnimatedColor | string| AnimatedColor take string type of color ('green')|
 | StepperBackgroundColor | string| AnimatedColor take string type of color ('lightgrey') |
+|SizeOfcircle | number |  sizeOfCirle take |
+|status | boolean | it's declare at data which you declare at data|
 
 
 ## Important Note
